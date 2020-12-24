@@ -12,7 +12,7 @@ More proxy sites in
 # About Limetorrents
 If you use a LimeTorrents proxy, you will find that this site works a little differently than your average torrent tracker. LimeTorrents is not a file repository, but a directory of files. The website does not act as a database for torrent trackers, but rather as a search engine that directs users to other hosting websites. The benefit is that it gives users a much wider range of files to browse, which at any given point in time have exceeded 50 million different torrent files.
 
-![Limetorrents Proxy] (https://github.com/unblocktorrents/Limetorrents-Proxy/blob/master/limetorrents-proxy.png)
+![Limetorrents Proxy](https://github.com/unblocktorrents/Limetorrents-Proxy/blob/master/limetorrents-proxy.png)
 
 Another advantage of LimeTorrents is the smooth user interface, in which an "integrity bar" next to each torrent file quickly shows whether a file is reliable and still can be downloaded quickly. When you're having trouble finding a specific file, LimeTorrents can be key to getting the torrent you're looking for.
 
