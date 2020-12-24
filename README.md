@@ -24,7 +24,7 @@ Can you check if limetorrents is active or not? If it is active, it will be bloc
 If Limetorrents is permanently inactive, you will need Limetorrents levels in order to be able to access Limetorrents. Below I have provided a list of Limetorrents proxies and mirrors. which have proven themselves in terms of availability, speed and status.
 
 
-Limetorrents Proxy and Limetorrents Torrent FAQ (Frequently Asked Questions)
+# Limetorrents Proxy and Limetorrents Torrent FAQ (Frequently Asked Questions)
 #### Question: How can I download movies and TV shows from Limetorrents?
 There are some simple steps you can follow to download a torrent movie from Limetorrents.
 > 1. You must first visit the new domain of the Limetorrents 2021 torrent site (Limetorrents.torrentbay.to).
