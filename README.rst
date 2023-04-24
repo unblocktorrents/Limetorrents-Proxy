@@ -1,16 +1,20 @@
 ##################
-Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2021
+Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2023
 ##################
 
 Would you like to access LimeTorrents in Europe, the US, UK, Australia, or elsewhere but can't? Follow this guide and learn how to access the best torrent site. Limetorrents.cc is one of the most popular torrents and is preferred by many torrent freaks. Many concerns have been raised about the geographic restrictions of limetorrents and some myths have been voiced about its safety.
 
 Below we have listed some of the LimeTorrents proxy websites that you can use to unblock the website. All websites were up and running at the time of writing. These are some of the proxy or mirror sites that work for LimeTorrent. You can open these proxy sites in your browser and easily access this platform.
 
-- https://limetorrents.torrentbay.to
+- https://limetorrents.torrentbay.net
+- https://limetorrents.torrentsbay.org
+- https://limetorrents.abcproxy.org
+
 
 More proxy sites in
 
-- https://torrentbay.to
+- https://torrentbay.net
+- https://abcproxy.org
 
 *********
 About Limetorrents
@@ -35,7 +39,7 @@ Limetorrents Proxy and Limetorrents Torrent FAQ (Frequently Asked Questions)
 
 There are some simple steps you can follow to download a torrent movie from Limetorrents.
 
-> 1. You must first visit the new domain of the Limetorrents 2021 torrent site (Limetorrents.torrentbay.to).
+> 1. You must first visit the new domain of the Limetorrents 2023 torrent site (Limetorrents.torrentbay.to).
 
 > 2. Then you need to hit the search bar and search the Limetorrents proxy for the movie you want to download.
 
