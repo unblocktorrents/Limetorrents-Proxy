@@ -8,12 +8,13 @@ Below we have listed some of the LimeTorrents proxy websites that you can use to
 
 - https://limetorrents.torrentbay.net
 - https://limetorrents.torrentsbay.org
+- https://limetorrents.ninjaproxy1.com
 - https://limetorrents.abcproxy.org
-
 
 More proxy sites in
 
 - https://torrentbay.net
+- https://ninjaproxy1.com
 - https://abcproxy.org
 
 *********
