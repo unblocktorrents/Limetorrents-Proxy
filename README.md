@@ -32,7 +32,7 @@ If Limetorrents is permanently inactive, you will need Limetorrents levels in or
 # Limetorrents Proxy and Limetorrents Torrent FAQ (Frequently Asked Questions)
 #### Question: How can I download movies and TV shows from Limetorrents?
 There are some simple steps you can follow to download a torrent movie from Limetorrents.
-> 1. You must first visit the new domain of the Limetorrents 2023 torrent site (Limetorrents.torrentbay.to).
+> 1. You must first visit the new domain of the Limetorrents 2024 torrent site (Limetorrents.torrentbay.to).
 > 2. Then you need to hit the search bar and search the Limetorrents proxy for the movie you want to download.
 > 3. These are your best resources on the Limetorrents proxy site. You need to click on any torrent name to check more details like description, file size, screenshot, etc.
 > 4. You will see a magnetic link under the title. You can download free videos here.
