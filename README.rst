@@ -1,19 +1,19 @@
 ##################
-Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2023
+Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2024
 ##################
 
 Would you like to access LimeTorrents in Europe, the US, UK, Australia, or elsewhere but can't? Follow this guide and learn how to access the best torrent site. Limetorrents.cc is one of the most popular torrents and is preferred by many torrent freaks. Many concerns have been raised about the geographic restrictions of limetorrents and some myths have been voiced about its safety.
 
 Below we have listed some of the LimeTorrents proxy websites that you can use to unblock the website. All websites were up and running at the time of writing. These are some of the proxy or mirror sites that work for LimeTorrent. You can open these proxy sites in your browser and easily access this platform.
 
-- https://limetorrents.torrentbay.net
+- https://limetorrents.torrentbay.st
 - https://limetorrents.torrentsbay.org
 - https://limetorrents.ninjaproxy1.com
 - https://limetorrents.abcproxy.org
 
 More proxy sites in
 
-- https://torrentbay.net
+- https://torrentbay.st
 - https://ninjaproxy1.com
 - https://abcproxy.org
 
