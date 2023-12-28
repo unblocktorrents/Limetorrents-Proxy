@@ -3,7 +3,7 @@
 	"type": "library",
 	"keywords": ["php proxy", "proxy script", "php web proxy", "web proxy", "php proxy script"],
 	"license": "MIT",
-	"homepage": "https://limetorrents.torrentbay.net/",
+	"homepage": "https://limetorrents.torrentbay.st/",
 	"require": {
 		"ext-curl": "*"
 	},
