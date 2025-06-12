@@ -1,4 +1,4 @@
-# Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2024
+# Limetorrents Proxy - 100% Working Limetorrents Mirror Sites 2025
 Would you like to access LimeTorrents in Europe, the US, UK, Australia, or elsewhere but can't? Follow this guide and learn how to access the best torrent site. Limetorrents.cc is one of the most popular torrents and is preferred by many torrent freaks. Many concerns have been raised about the geographic restrictions of limetorrents and some myths have been voiced about its safety.
 
 Below we have listed some of the LimeTorrents proxy websites that you can use to unblock the website. All websites were up and running at the time of writing. These are some of the proxy or mirror sites that work for LimeTorrent. You can open these proxy sites in your browser and easily access this platform.
@@ -6,13 +6,13 @@ Below we have listed some of the LimeTorrents proxy websites that you can use to
 - https://limetorrents.torrentbay.st
 - https://limetorrents.torrentsbay.org
 - https://limetorrents.ninjaproxy1.com
-- https://limetorrents.abcproxy.org
+- https://limetorrents.piratic.org
 
 More proxy sites in
 
 - https://torrentbay.st
 - https://ninjaproxy1.com
-- https://abcproxy.org
+- https://piratic.org
 
 # About Limetorrents
 If you use a LimeTorrents proxy, you will find that this site works a little differently than your average torrent tracker. LimeTorrents is not a file repository, but a directory of files. The website does not act as a database for torrent trackers, but rather as a search engine that directs users to other hosting websites. The benefit is that it gives users a much wider range of files to browse, which at any given point in time have exceeded 50 million different torrent files.
@@ -32,7 +32,7 @@ If Limetorrents is permanently inactive, you will need Limetorrents levels in or
 # Limetorrents Proxy and Limetorrents Torrent FAQ (Frequently Asked Questions)
 #### Question: How can I download movies and TV shows from Limetorrents?
 There are some simple steps you can follow to download a torrent movie from Limetorrents.
-> 1. You must first visit the new domain of the Limetorrents 2024 torrent site (Limetorrents.torrentbay.st).
+> 1. You must first visit the new domain of the Limetorrents 2025 torrent site (Limetorrents.torrentbay.st).
 > 2. Then you need to hit the search bar and search the Limetorrents proxy for the movie you want to download.
 > 3. These are your best resources on the Limetorrents proxy site. You need to click on any torrent name to check more details like description, file size, screenshot, etc.
 > 4. You will see a magnetic link under the title. You can download free videos here.
