@@ -4,6 +4,7 @@ Would you like to access LimeTorrents in Europe, the US, UK, Australia, or elsew
 Below we have listed some of the LimeTorrents proxy websites that you can use to unblock the website. All websites were up and running at the time of writing. These are some of the proxy or mirror sites that work for LimeTorrent. You can open these proxy sites in your browser and easily access this platform.
 
 - https://limetorrents.torrentbay.st
+- https://limetorrents.torrentbay.to
 - https://limetorrents.torrentsbay.org
 - https://limetorrents.ninjaproxy1.com
 - https://limetorrents.piratic.org
@@ -11,6 +12,7 @@ Below we have listed some of the LimeTorrents proxy websites that you can use to
 More proxy sites in
 
 - https://torrentbay.st
+- https://torrentbay.to
 - https://ninjaproxy1.com
 - https://piratic.org
 
